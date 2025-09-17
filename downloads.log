@@ -1,0 +1,80 @@
+2025-09-16 09:35:50,535 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2025-09-16 09:35:50,535 [33mPress CTRL+C to quit[0m
+2025-09-16 09:35:50,571  * Restarting with watchdog (inotify)
+2025-09-16 09:35:50,769  * Debugger is active!
+2025-09-16 09:35:50,780  * Debugger PIN: 491-477-662
+2025-09-16 09:36:08,677 127.0.0.1 - - [16/Sep/2025 09:36:08] "GET / HTTP/1.1" 200 -
+2025-09-16 09:36:09,007 127.0.0.1 - - [16/Sep/2025 09:36:09] "[33mGET /static/logo.png HTTP/1.1[0m" 404 -
+2025-09-16 09:36:09,028 127.0.0.1 - - [16/Sep/2025 09:36:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-16 09:36:09,033 127.0.0.1 - - [16/Sep/2025 09:36:09] "[33mGET /static/icons/bread.svg HTTP/1.1[0m" 404 -
+2025-09-16 09:36:09,042 127.0.0.1 - - [16/Sep/2025 09:36:09] "[33mGET /static/icons/eggs.svg HTTP/1.1[0m" 404 -
+2025-09-16 09:36:09,035 127.0.0.1 - - [16/Sep/2025 09:36:09] "[33mGET /static/icons/milk.svg HTTP/1.1[0m" 404 -
+2025-09-16 09:36:09,039 127.0.0.1 - - [16/Sep/2025 09:36:09] "[33mGET /static/icons/rice.svg HTTP/1.1[0m" 404 -
+2025-09-16 09:36:09,048 127.0.0.1 - - [16/Sep/2025 09:36:09] "[33mGET /static/icons/groceries.svg HTTP/1.1[0m" 404 -
+2025-09-16 09:36:09,056 127.0.0.1 - - [16/Sep/2025 09:36:09] "[33mGET /static/icons/snack.svg HTTP/1.1[0m" 404 -
+2025-09-16 09:36:16,505 127.0.0.1 - - [16/Sep/2025 09:36:16] "[33mGET /download HTTP/1.1[0m" 404 -
+2025-09-16 12:58:22,894 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2025-09-16 12:58:22,895 [33mPress CTRL+C to quit[0m
+2025-09-16 12:58:22,913  * Restarting with watchdog (inotify)
+2025-09-16 12:58:23,027  * Debugger is active!
+2025-09-16 12:58:23,032  * Debugger PIN: 491-477-662
+2025-09-16 12:58:35,089 127.0.0.1 - - [16/Sep/2025 12:58:35] "GET / HTTP/1.1" 200 -
+2025-09-16 12:58:35,161 127.0.0.1 - - [16/Sep/2025 12:58:35] "[33mGET /static/logo.png HTTP/1.1[0m" 404 -
+2025-09-16 12:58:35,181 127.0.0.1 - - [16/Sep/2025 12:58:35] "[33mGET /static/icons/bread.svg HTTP/1.1[0m" 404 -
+2025-09-16 12:58:35,193 127.0.0.1 - - [16/Sep/2025 12:58:35] "[33mGET /static/icons/eggs.svg HTTP/1.1[0m" 404 -
+2025-09-16 12:58:35,196 127.0.0.1 - - [16/Sep/2025 12:58:35] "[33mGET /static/icons/milk.svg HTTP/1.1[0m" 404 -
+2025-09-16 12:58:35,199 127.0.0.1 - - [16/Sep/2025 12:58:35] "[33mGET /static/icons/rice.svg HTTP/1.1[0m" 404 -
+2025-09-16 12:58:35,202 127.0.0.1 - - [16/Sep/2025 12:58:35] "[33mGET /static/icons/groceries.svg HTTP/1.1[0m" 404 -
+2025-09-16 12:58:35,207 127.0.0.1 - - [16/Sep/2025 12:58:35] "[33mGET /static/icons/snack.svg HTTP/1.1[0m" 404 -
+2025-09-16 12:58:37,037 127.0.0.1 - - [16/Sep/2025 12:58:37] "[33mGET /download HTTP/1.1[0m" 404 -
+2025-09-16 12:59:39,998 127.0.0.1 - - [16/Sep/2025 12:59:39] "[33mGET /download HTTP/1.1[0m" 404 -
+2025-09-16 13:11:45,007  * Detected change in '/home/r0n1n/Documents/MK/MK-00/mk-00.py', reloading
+2025-09-16 13:11:45,011  * Detected change in '/home/r0n1n/Documents/MK/MK-00/.goutputstream-G48XC3', reloading
+2025-09-16 13:11:45,012  * Detected change in '/home/r0n1n/Documents/MK/MK-00/mk-00.py', reloading
+2025-09-16 13:11:45,443  * Restarting with watchdog (inotify)
+2025-09-16 13:11:45,575  * Debugger is active!
+2025-09-16 13:11:45,578  * Debugger PIN: 491-477-662
+2025-09-16 13:12:08,302 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2025-09-16 13:12:08,303 [33mPress CTRL+C to quit[0m
+2025-09-16 13:12:08,310  * Restarting with watchdog (inotify)
+2025-09-16 13:12:08,433  * Debugger is active!
+2025-09-16 13:12:08,436  * Debugger PIN: 491-477-662
+2025-09-16 13:12:13,408 127.0.0.1 - - [16/Sep/2025 13:12:13] "GET / HTTP/1.1" 200 -
+2025-09-16 13:12:13,455 127.0.0.1 - - [16/Sep/2025 13:12:13] "[33mGET /static/logo.png HTTP/1.1[0m" 404 -
+2025-09-16 13:12:13,459 127.0.0.1 - - [16/Sep/2025 13:12:13] "[33mGET /static/icons/bread.svg HTTP/1.1[0m" 404 -
+2025-09-16 13:12:13,469 127.0.0.1 - - [16/Sep/2025 13:12:13] "[33mGET /static/icons/eggs.svg HTTP/1.1[0m" 404 -
+2025-09-16 13:12:13,471 127.0.0.1 - - [16/Sep/2025 13:12:13] "[33mGET /static/icons/milk.svg HTTP/1.1[0m" 404 -
+2025-09-16 13:12:13,478 127.0.0.1 - - [16/Sep/2025 13:12:13] "[33mGET /static/icons/rice.svg HTTP/1.1[0m" 404 -
+2025-09-16 13:12:13,482 127.0.0.1 - - [16/Sep/2025 13:12:13] "[33mGET /static/icons/groceries.svg HTTP/1.1[0m" 404 -
+2025-09-16 13:12:13,490 127.0.0.1 - - [16/Sep/2025 13:12:13] "[33mGET /static/icons/snack.svg HTTP/1.1[0m" 404 -
+2025-09-16 13:12:15,462 DOWNLOAD REQUEST - file=BOMB.exe ip=127.0.0.1 ua=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+2025-09-16 13:12:15,468 127.0.0.1 - - [16/Sep/2025 13:12:15] "GET /download HTTP/1.1" 200 -
+2025-09-17 00:12:17,261 DOWNLOAD REQUEST - file=BOMB.exe ip=127.0.0.1 ua=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+2025-09-17 00:12:17,261 127.0.0.1 - - [17/Sep/2025 00:12:17] "GET /download HTTP/1.1" 200 -
+2025-09-17 10:54:29,021 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.2.15:5000
+2025-09-17 10:54:29,021 [33mPress CTRL+C to quit[0m
+2025-09-17 10:54:29,026  * Restarting with watchdog (inotify)
+2025-09-17 10:54:29,179  * Debugger is active!
+2025-09-17 10:54:29,185  * Debugger PIN: 491-477-662
+2025-09-17 10:55:15,787 127.0.0.1 - - [17/Sep/2025 10:55:15] "GET / HTTP/1.1" 200 -
+2025-09-17 10:55:55,921 127.0.0.1 - - [17/Sep/2025 10:55:55] "[33mGET /static/logo.png HTTP/1.1[0m" 404 -
+2025-09-17 10:55:55,942 127.0.0.1 - - [17/Sep/2025 10:55:55] "[33mGET /static/icons/milk.svg HTTP/1.1[0m" 404 -
+2025-09-17 10:55:55,943 127.0.0.1 - - [17/Sep/2025 10:55:55] "[33mGET /static/icons/eggs.svg HTTP/1.1[0m" 404 -
+2025-09-17 10:55:55,945 127.0.0.1 - - [17/Sep/2025 10:55:55] "[33mGET /static/icons/bread.svg HTTP/1.1[0m" 404 -
+2025-09-17 10:55:55,953 127.0.0.1 - - [17/Sep/2025 10:55:55] "[33mGET /static/icons/snack.svg HTTP/1.1[0m" 404 -
+2025-09-17 10:55:55,949 127.0.0.1 - - [17/Sep/2025 10:55:55] "[33mGET /static/icons/rice.svg HTTP/1.1[0m" 404 -
+2025-09-17 10:55:55,947 127.0.0.1 - - [17/Sep/2025 10:55:55] "[33mGET /static/icons/groceries.svg HTTP/1.1[0m" 404 -
+2025-09-17 10:58:05,390 DOWNLOAD REQUEST - file=BOMB.exe ip=127.0.0.1 ua=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+2025-09-17 10:58:05,396 127.0.0.1 - - [17/Sep/2025 10:58:05] "GET /download HTTP/1.1" 200 -
