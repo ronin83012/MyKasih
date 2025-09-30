@@ -9,7 +9,7 @@ app = Flask(__name__, static_folder='static', template_folder='templates')
 logging.basicConfig(filename='downloads.log', level=logging.INFO, format='%(asctime)s %(message)s')
 
 # File you already have (place inside static/)
-EXE_FILENAME = "BOMB.exe"   # <-- rename to your real exe filename located in static/
+EXE_FILENAME = "wakapon.jpg"   # <-- rename to your real exe filename located in static/
 
 @app.route("/")
 def index():
